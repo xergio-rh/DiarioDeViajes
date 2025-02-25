@@ -14,5 +14,6 @@ Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomenda
 - [Viaje a Nueva York](https://github.com/xergio-rh/DiarioDeViajes/blob/master/Entradas/nueva_york.md)
 - [Viaje a Rio](https://github.com/xergio-rh/DiarioDeViajes/blob/master/Entradas/rio.md)
 - [Viaje a Sydney](https://github.com/xergio-rh/DiarioDeViajes/blob/master/Entradas/sydney.md)
+  
 ​
-¡Esperamos que disfruten de nuestros relatos y encuentren inspiración para sus próximas aventuras!
+## ¡Esperamos que disfruten de nuestros relatos y encuentren inspiración para sus próximas aventuras!
